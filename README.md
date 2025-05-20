@@ -26,16 +26,19 @@
 - Design de UI com Figma e interface interativa no cliente
 
 ---
-
-### Contato
-
-- Discord: `SeuUser#0000`
-- Email: `seuemail@exemplo.com`
-- Repositórios principais abaixo!
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juanzitooh&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanzitooh&layout=compact&theme=radical" />
 </p>
+
+---
+
+### Contato
+
+- Discord: `Juanzitooh`
+- Email: `jplopesdossantos13@gmail.com`
+- Minhas contribuicao em repositorios publicas estão abaixo 👇🏽
+
+
+
+
