@@ -44,8 +44,8 @@
 
 - Discord: `Juanzitooh`
 - Email: `jplopesdossantos13@gmail.com`
-- Minhas contribuicao em repositorios publicas estão abaixo 👇🏽
-
+- Releases: [![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Juanzitooh/Juanzitooh/releases)
+- Minhas contribuicao ativa repositorios publicas estão abaixo 👇🏽
 
 
 
