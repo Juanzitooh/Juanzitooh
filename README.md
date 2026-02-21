@@ -33,12 +33,6 @@
 - Design de UI com Figma e interface interativa no cliente
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanzitooh&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Juanzitooh&show_icons=true&theme=radical" />
-</p>
-
----
 
 ### Contato
 
