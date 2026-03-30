@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o JP!</h1>
-<p align="center">Criador do jogo Elemental • Foco em inovação, automação e experiências imersivas</p>
+<h1 align="center">Olá, eu sou o JP!Desenvolvedor e arquiteto de soluções</h1>
+<p align="center">Criador do jogo Elemental • Foco em inovação, automação, usabilidade e experiência do usuário</p>
 
 ---
 
@@ -28,9 +28,10 @@
 - Desenvolvedor e idealizador do jogo **Elemental**
 - Customizações avançadas na engine **Canary** e no **OTClient**
 - Arquitetura centrada em **Lua**, **C++** e **MySQL/MariaDB**
-- Criação de sistemas de economia, crafting e política no jogo
-- Integração com **Discord Bots** e automações com **Python**
-- Design de UI com Figma e interface interativa no cliente
+- Criação de sistemas custom de economia, crafting e política para jogos multiplayer online
+- Integração e Criação de soluções com **Discord / Telegram Bots**, além de automações  com **Python**
+- Design com flutter/DART para cross plataform
+- Criação de Soluções personalizadas, lançamento de aplicativos, e o que mais for preciso, entre em contato para mais informações.
 
 ---
 
@@ -38,8 +39,9 @@
 
 - Discord: `Juanzitooh`
 - Email: `jplopesdossantos13@gmail.com`
+- Whatsapp: `(22) 996158004`
 - Releases: [![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Juanzitooh/Juanzitooh/releases)
-- Minhas contribuicao ativa repositorios publicas estão abaixo 👇🏽
+- Veja alguns projetos open source em andamento abaixo 👇🏽
 
 
 
