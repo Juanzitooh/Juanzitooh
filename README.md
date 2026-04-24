@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o JP!Desenvolvedor e Arquiteto de soluções</h1>
+<h1 align="center">Olá, eu sou o JP! Arquiteto e Desenvolvedor de Soluções</h1>
 <p align="center">• Foco em inovação, automação, usabilidade e experiência do usuário •</p>
 
 ---
@@ -33,13 +33,14 @@
 - Customizações avançadas na engine **Canary** e no **OTClient** para servidores custom.
 - Arquitetura para jogos centrada em **Lua**, **C++** e **MySQL/MariaDB**
 - Criação de sistemas custom de economia, crafting e política para jogos multiplayer online
-- Integração e Criação de soluções com **Discord / Telegram Bots**, além de automações  com **Python**
-- Design com flutter/DART para cross plataform e Servidores em **Python**
-- Criação de Soluções personalizadas, lançamento de aplicativos, e o que mais for preciso, entre em contato para mais informações.
+- Integração e Criação de soluções financeiras, comerciais e administrativas com **Discord / Telegram Bots**, além de automações  com **Python**.
+- Design de aplicações com inteface em flutter/DART para cross plataform (Windows, Linux, Web browser e Android)
+- Configuração e Manutençã de backend de servidores Linux (ubuntu, Linux server).
+- Criação de Soluções personalizadas, lançamento de aplicativos, e o que mais for preciso, entre em contato nas redes abaixo para mais informações e orçamentos:
 
 ---
 
-### Contato
+### Contatos
 
 - Discord: `Juanzitooh`
 - Email: `jplopesdossantos13@gmail.com`
